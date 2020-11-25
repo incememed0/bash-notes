@@ -24,4 +24,4 @@ echo "sistemin default değişkeni REPLY: "
 read
 echo "sonuç : $REPLY"
 
-# sonra devam et
+# 
