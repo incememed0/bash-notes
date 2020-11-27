@@ -1,6 +1,6 @@
 #!/bin/bash
-#author: Ercan Atar
-#linkedin: https://www.linkedin.com/in/ercanatar/
+# author: Ercan Atar
+# linkedin.com/in/ercanatar/
 ##########################################################
 echo "Merhaba Dünya" #echo komutu ile konsol ekranında çıktı verilmesi sağlanır.
 

@@ -1,6 +1,6 @@
 #!/bin/bash
-#author: Ercan Atar
-#linkedin: https://www.linkedin.com/in/ercanatar/
+# author: Ercan Atar
+# linkedin.com/in/ercanatar/
 ##########################################################
 # if 2 farklı kullanım şekli bulunmakta
 #########################################
