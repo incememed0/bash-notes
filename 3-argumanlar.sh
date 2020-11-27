@@ -1,5 +1,7 @@
 #!/bin/bash
-
+#author: Ercan Atar
+#linkedin: https://www.linkedin.com/in/ercanatar/
+##########################################################
 echo "Çalıştırılan programın adı : "$0
 # $ ifadesinin yanına yazılan her sayı programın yanına yazılan komutlar veya ifadelerdir.
 echo "############### $0 çalıştırıldı... ##############"

@@ -1,5 +1,7 @@
 #!/bin/bash
-
+#author: Ercan Atar
+#linkedin: https://www.linkedin.com/in/ercanatar/
+##########################################################
 # if 2 farklı kullanım şekli bulunmakta
 #########################################
 #if [ 1.KOŞUL ]    #if ((1.KOŞUL))	#

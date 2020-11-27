@@ -1,6 +1,7 @@
 #!/bin/bash
-
-###############################################
+#author: Ercan Atar
+#linkedin: https://www.linkedin.com/in/ercanatar/
+##########################################################
 # Program çalıştırıldığında Düzenli bir görünüm sağlamak önemli bunun için imlecin nereye geleceği önem kazanır.
 echo "Yazı imleci aşağıya indi: "
 read isim1
