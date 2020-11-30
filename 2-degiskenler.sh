@@ -6,7 +6,10 @@
 echo "Yazı imleci aşağıya indi: "
 read isim1
 echo "Girilen isim: " $isim1
-
+#
+echo -e "Yazı imleci bu satırda kaldı: \c"
+read dosyaismi
+#
 read -p "Yazı imleci bu satırda kaldı: " isim2
 echo "girilen isim: " $isim2
 ################################################

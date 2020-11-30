@@ -3,8 +3,6 @@
 # linkedin.com/in/ercanatar/
 ##########################################################
 echo "Merhaba Dünya" #echo komutu ile konsol ekranında çıktı verilmesi sağlanır.
-
-# Kısa notlar
 #
 # Oluşturduğumuz script dosyasını "executable" yaparak çalıştırmaya hazır hale getiriyoruz.
 # chmod +x dosya_ismi
@@ -19,7 +17,7 @@ echo "Merhaba Dünya" #echo komutu ile konsol ekranında çıktı verilmesi sağ
 #
 # 1-Sistem değişkenleri
 #
-echo "########## Sistem değişkenleri ##########"
+echo "##########======== Sistem değişkenleri =======##########"
 echo $BASH # Sistemin hangi kabuk programını kullandığı
 echo $SHELL
 echo $BASH_VERSION # Kabuk programın versiyon bilgisi
@@ -27,9 +25,9 @@ echo $HOME # Hangi kullanıcının /home dizinin neresi olduğu bilgisi
 echo $PWD # Komutu hangi dizinde çalıştırdığının bilgisi
 echo $REPLY # Default sistem değişkeni
 echo $TERM # Grafik ekran görüntüsünün x sunucusu ile değişken
-echo "########## env komutu ##########"
+echo "##########======== env komutu ===========##########"
 env # Bu komut tüm detaylı bilgilerin çıktısını verir.
-echo "########## ########## ##########"
+echo "########## #####===================##### ##########"
 #
 echo " "
 # 2-Kullanıcı değişkenleri
