@@ -20,10 +20,10 @@ case $deger in
 	echo "$deger RAKAM girişi yapıldı.";;
 	? ) # Özel karakterlerin tümünü "?" ile ifade ediyoruz.
 	echo "$deger ÖZEL KARAKTER girişi yapıldı.";;
-	* )
+	* ) # Bütün karakterleri ifade etmek için "*" kullanılır.
 	echo "$deger bilinmeyen karakter girildi.";;
 esac
-#
+# Yazılan ifadeler küçük harfle yazılmalı yoksa çalışmaz. (a!=A)
 read -p "araç tipini yazınız: " arac
 case $arac in
 	"araba" )
