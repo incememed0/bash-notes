@@ -1,19 +1,11 @@
-#!/bin/bash
+#!/usr/bin/env bash
+# author: Ercan Atar
+# linkedin.com/in/ercanatar/
+############################################
+#--------------> UYGULAMA <--------------#
+# 1. Kullanıcıdan girdi alarak linux'un temel komutlarını çalıştıran bir program yazalım
 
-#1-dosya var mı kontrol et
-#2-dosya yoksa oluştur
-#3-dosya varsa yetkilerini öğren
-#4-dosyanın yetkilerinin hangisini arttırılmasını istiyorsan belirle (r-w-x)
-#5-dosya içerisine yazı yaz.
+echo $0 " Program çalıştırıldı."
+sleep 1
 
-read -p "dosya mevcut mu: " $dosya
-if [ -e $dosya ]
-then
-	echo "dosyamız mevcut."
-	ls -la $dosya
-	read -p "dosyanın hangi yetkilerini değiştiricez(r w x): " $1 $2 $3
-	case
-else
-	echo "dosya mevcut değil."
-	touch $dosya
-fi
+case
